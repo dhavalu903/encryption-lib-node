@@ -5,13 +5,13 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/your-org/encryption-lib.git"
+        "url": "git+https://github.com/dhavalu903/encryption-lib-node.git"
     },
     "keywords": [
         "encryption",
         "crypto",
         "middleware"
     ],
-    "author": "Your Name",
+    "author": "Dhaval Upadhyay",
     "license": "MIT"
 }
