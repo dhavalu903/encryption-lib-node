@@ -1,0 +1,17 @@
+{
+    "name": "encryption-lib",
+    "version": "1.0.0",
+    "description": "Reusable encryption service for microservices",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-org/encryption-lib.git"
+    },
+    "keywords": [
+        "encryption",
+        "crypto",
+        "middleware"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+}
