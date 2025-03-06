@@ -1,4 +1,4 @@
-const { decrypt } = require('encryptionService');
+const { decrypt } = require('./encryptionService');
 
 const decryptRequestBody = (req, res, next) => {
   try {
