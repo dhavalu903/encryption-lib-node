@@ -1,5 +1,5 @@
 // middleware/encryptResponseMiddleware.js
-const { encrypt } = require('../services/encryptionService');  
+const { encrypt } = require('encryptionService');  
 
 const encryptResponseBody = (req, res, next) => {
   
