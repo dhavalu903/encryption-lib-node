@@ -1,4 +1,4 @@
-const { sanitizeInput } = require('../utils/vaptUtils');
+const { sanitizeInput } = require('./vaptUtils');
 
 // Middleware to sanitize `req.body`
 const sanitizeRequestBody = (req, res, next) => {
